@@ -5,10 +5,12 @@ repo: ncpa_dsi_upptime
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Mailinblack
     url: https://status.mailinblack.com/
+  - name: urba.ncpa.fr
+    url: https://urba.ncpa.fr/NetADS/connexion
+  - name: sig.ncpa.fr
+    url: https://sig.ncpa.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
