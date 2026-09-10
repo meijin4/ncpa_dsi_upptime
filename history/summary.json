@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 127,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 86,
+    "timeDay": 68,
+    "timeWeek": 86,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 406,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 356,
+    "timeDay": 352,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
     "status": "down",
-    "uptime": "72.11%",
+    "uptime": "60.22%",
     "uptimeDay": "61.86%",
-    "uptimeWeek": "72.11%",
-    "uptimeMonth": "72.11%",
-    "uptimeYear": "72.11%",
+    "uptimeWeek": "60.22%",
+    "uptimeMonth": "60.22%",
+    "uptimeYear": "60.22%",
     "time": 647,
     "timeDay": 666,
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2026-09-09": 396,
-      "2026-09-08": 165
+      "2026-09-09": 549,
+      "2026-09-08": 165,
+      "2026-09-10": 244
     }
   },
   {
@@ -62,19 +63,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
     "status": "down",
-    "uptime": "72.60%",
-    "uptimeDay": "62.20%",
-    "uptimeWeek": "72.60%",
-    "uptimeMonth": "72.60%",
-    "uptimeYear": "72.60%",
+    "uptime": "60.62%",
+    "uptimeDay": "62.19%",
+    "uptimeWeek": "60.62%",
+    "uptimeMonth": "60.62%",
+    "uptimeYear": "60.62%",
     "time": 653,
     "timeDay": 628,
     "timeWeek": 653,
     "timeMonth": 653,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2026-09-09": 391,
-      "2026-09-08": 160
+      "2026-09-09": 544,
+      "2026-09-08": 160,
+      "2026-09-10": 244
     }
   }
 ]
