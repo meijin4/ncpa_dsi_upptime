@@ -40,17 +40,17 @@
     "url": "https://urba.ncpa.fr/NetADS/connexion",
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
-    "status": "down",
-    "uptime": "65.83%",
-    "uptimeDay": "69.32%",
-    "uptimeWeek": "64.62%",
-    "uptimeMonth": "65.83%",
-    "uptimeYear": "65.83%",
-    "time": 704,
-    "timeDay": 884,
-    "timeWeek": 667,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "65.49%",
+    "uptimeDay": "59.13%",
+    "uptimeWeek": "63.78%",
+    "uptimeMonth": "65.49%",
+    "uptimeYear": "65.49%",
+    "time": 697,
+    "timeDay": 495,
+    "timeWeek": 629,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2026-09-09": 549,
       "2026-09-08": 165,
@@ -81,7 +81,7 @@
       "2026-10-04": 428,
       "2026-10-05": 536,
       "2026-10-06": 426,
-      "2026-10-07": 320
+      "2026-10-07": 533
     }
   },
   {
@@ -89,17 +89,17 @@
     "url": "https://sig.ncpa.fr",
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
-    "status": "down",
-    "uptime": "66.81%",
-    "uptimeDay": "69.66%",
-    "uptimeWeek": "64.96%",
-    "uptimeMonth": "66.81%",
-    "uptimeYear": "66.81%",
-    "time": 643,
-    "timeDay": 914,
-    "timeWeek": 650,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "66.46%",
+    "uptimeDay": "59.46%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "66.46%",
+    "uptimeYear": "66.46%",
+    "time": 639,
+    "timeDay": 505,
+    "timeWeek": 613,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2026-09-09": 544,
       "2026-09-08": 160,
@@ -130,7 +130,7 @@
       "2026-10-04": 423,
       "2026-10-05": 536,
       "2026-10-06": 417,
-      "2026-10-07": 320
+      "2026-10-07": 533
     }
   }
 ]
