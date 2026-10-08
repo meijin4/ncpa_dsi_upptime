@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 85,
+    "timeDay": 59,
     "timeWeek": 70,
     "timeMonth": 81,
     "timeYear": 81,
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 272,
-    "timeWeek": 334,
+    "timeDay": 344,
+    "timeWeek": 338,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {}
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
     "status": "down",
-    "uptime": "66.09%",
-    "uptimeDay": "58.78%",
-    "uptimeWeek": "63.73%",
-    "uptimeMonth": "66.09%",
-    "uptimeYear": "66.09%",
+    "uptime": "65.35%",
+    "uptimeDay": "52.03%",
+    "uptimeWeek": "62.67%",
+    "uptimeMonth": "65.35%",
+    "uptimeYear": "65.35%",
     "time": 697,
     "timeDay": 495,
     "timeWeek": 629,
@@ -81,7 +81,8 @@
       "2026-10-04": 428,
       "2026-10-05": 536,
       "2026-10-06": 426,
-      "2026-10-07": 538
+      "2026-10-07": 691,
+      "2026-10-08": 329
     }
   },
   {
@@ -90,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
     "status": "down",
-    "uptime": "67.06%",
-    "uptimeDay": "59.46%",
-    "uptimeWeek": "64.11%",
-    "uptimeMonth": "67.06%",
-    "uptimeYear": "67.06%",
+    "uptime": "66.31%",
+    "uptimeDay": "52.37%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "66.31%",
+    "uptimeYear": "66.31%",
     "time": 639,
     "timeDay": 505,
     "timeWeek": 613,
@@ -130,7 +131,8 @@
       "2026-10-04": 423,
       "2026-10-05": 536,
       "2026-10-06": 417,
-      "2026-10-07": 533
+      "2026-10-07": 686,
+      "2026-10-08": 329
     }
   }
 ]
