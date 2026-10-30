@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 77,
-    "timeWeek": 93,
-    "timeMonth": 82,
+    "timeDay": 75,
+    "timeWeek": 87,
+    "timeMonth": 81,
     "timeYear": 83,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 353,
-    "timeWeek": 449,
-    "timeMonth": 387,
-    "timeYear": 377,
+    "time": 375,
+    "timeDay": 232,
+    "timeWeek": 403,
+    "timeMonth": 384,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   },
   {
@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
     "status": "down",
-    "uptime": "65.02%",
+    "uptime": "64.81%",
     "uptimeDay": "66.42%",
     "uptimeWeek": "64.04%",
     "uptimeMonth": "64.27%",
-    "uptimeYear": "65.02%",
+    "uptimeYear": "64.81%",
     "time": 714,
     "timeDay": 703,
     "timeWeek": 687,
@@ -104,7 +104,7 @@
       "2026-10-27": 408,
       "2026-10-28": 461,
       "2026-10-29": 542,
-      "2026-10-30": 5
+      "2026-10-30": 254
     }
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
     "status": "down",
-    "uptime": "66.04%",
+    "uptime": "65.82%",
     "uptimeDay": "66.76%",
     "uptimeWeek": "64.38%",
     "uptimeMonth": "65.15%",
-    "uptimeYear": "66.04%",
+    "uptimeYear": "65.82%",
     "time": 670,
     "timeDay": 852,
     "timeWeek": 660,
@@ -176,7 +176,7 @@
       "2026-10-27": 399,
       "2026-10-28": 456,
       "2026-10-29": 542,
-      "2026-10-30": 0
+      "2026-10-30": 249
     }
   }
 ]
