@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 75,
-    "timeWeek": 87,
-    "timeMonth": 81,
+    "timeDay": 107,
+    "timeWeek": 94,
+    "timeMonth": 82,
     "timeYear": 83,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 232,
-    "timeWeek": 403,
+    "timeDay": 398,
+    "timeWeek": 407,
     "timeMonth": 384,
     "timeYear": 375,
     "dailyMinutesDown": {}
@@ -41,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
     "status": "down",
-    "uptime": "65.17%",
-    "uptimeDay": "75.15%",
-    "uptimeWeek": "63.81%",
-    "uptimeMonth": "64.35%",
-    "uptimeYear": "65.17%",
+    "uptime": "64.86%",
+    "uptimeDay": "66.99%",
+    "uptimeWeek": "63.59%",
+    "uptimeMonth": "63.19%",
+    "uptimeYear": "64.86%",
     "time": 714,
     "timeDay": 688,
     "timeWeek": 700,
-    "timeMonth": 711,
+    "timeMonth": 713,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2026-09-09": 549,
@@ -104,7 +104,8 @@
       "2026-10-27": 408,
       "2026-10-28": 461,
       "2026-10-29": 542,
-      "2026-10-30": 358
+      "2026-10-30": 417,
+      "2026-10-31": 297
     }
   },
   {
@@ -113,15 +114,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
     "status": "down",
-    "uptime": "66.17%",
-    "uptimeDay": "75.83%",
-    "uptimeWeek": "64.19%",
-    "uptimeMonth": "65.23%",
-    "uptimeYear": "66.17%",
+    "uptime": "65.86%",
+    "uptimeDay": "67.32%",
+    "uptimeWeek": "63.93%",
+    "uptimeMonth": "64.07%",
+    "uptimeYear": "65.86%",
     "time": 671,
     "timeDay": 720,
     "timeWeek": 682,
-    "timeMonth": 690,
+    "timeMonth": 693,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2026-09-09": 544,
@@ -176,7 +177,8 @@
       "2026-10-27": 399,
       "2026-10-28": 456,
       "2026-10-29": 542,
-      "2026-10-30": 348
+      "2026-10-30": 407,
+      "2026-10-31": 297
     }
   }
 ]
