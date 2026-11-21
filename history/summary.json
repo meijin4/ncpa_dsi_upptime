@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "88.91%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "68.17%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.91%",
     "time": 88,
-    "timeDay": 361,
-    "timeWeek": 111,
-    "timeMonth": 100,
+    "timeDay": 209,
+    "timeWeek": 104,
+    "timeMonth": 98,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2026-11-21": 160
+      "2026-11-21": 458
     }
   },
   {
@@ -42,17 +42,17 @@
     "url": "https://urba.ncpa.fr/NetADS/connexion",
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
-    "status": "down",
-    "uptime": "64.15%",
-    "uptimeDay": "66.29%",
-    "uptimeWeek": "62.62%",
-    "uptimeMonth": "62.30%",
-    "uptimeYear": "64.15%",
-    "time": 703,
-    "timeDay": 0,
-    "timeWeek": 707,
-    "timeMonth": 675,
-    "timeYear": 703,
+    "status": "up",
+    "uptime": "63.97%",
+    "uptimeDay": "45.55%",
+    "uptimeWeek": "60.62%",
+    "uptimeMonth": "61.62%",
+    "uptimeYear": "63.97%",
+    "time": 701,
+    "timeDay": 528,
+    "timeWeek": 675,
+    "timeMonth": 670,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-09-09": 549,
       "2026-09-08": 165,
@@ -128,7 +128,7 @@
       "2026-11-18": 481,
       "2026-11-19": 455,
       "2026-11-20": 474,
-      "2026-11-21": 392
+      "2026-11-21": 691
     }
   },
   {
@@ -136,17 +136,17 @@
     "url": "https://sig.ncpa.fr",
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
-    "status": "down",
-    "uptime": "64.96%",
-    "uptimeDay": "66.62%",
-    "uptimeWeek": "62.95%",
-    "uptimeMonth": "63.18%",
-    "uptimeYear": "64.96%",
-    "time": 685,
-    "timeDay": 0,
-    "timeWeek": 803,
-    "timeMonth": 713,
-    "timeYear": 685,
+    "status": "up",
+    "uptime": "64.78%",
+    "uptimeDay": "45.88%",
+    "uptimeWeek": "60.95%",
+    "uptimeMonth": "62.50%",
+    "uptimeYear": "64.78%",
+    "time": 683,
+    "timeDay": 544,
+    "timeWeek": 733,
+    "timeMonth": 708,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2026-09-09": 544,
       "2026-09-08": 160,
@@ -222,7 +222,7 @@
       "2026-11-18": 476,
       "2026-11-19": 449,
       "2026-11-20": 465,
-      "2026-11-21": 392
+      "2026-11-21": 691
     }
   }
 ]
