@@ -11,9 +11,9 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.91%",
     "time": 88,
-    "timeDay": 115,
+    "timeDay": 0,
     "timeWeek": 117,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2026-11-21": 458
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 605,
+    "timeDay": 0,
     "timeWeek": 539,
-    "timeMonth": 432,
+    "timeMonth": 434,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -42,15 +42,15 @@
     "url": "https://urba.ncpa.fr/NetADS/connexion",
     "icon": "https://icons.duckduckgo.com/ip3/urba.ncpa.fr.ico",
     "slug": "urba-ncpa-fr",
-    "status": "up",
-    "uptime": "63.82%",
-    "uptimeDay": "54.41%",
-    "uptimeWeek": "61.60%",
-    "uptimeMonth": "61.61%",
-    "uptimeYear": "63.82%",
+    "status": "down",
+    "uptime": "64.23%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "63.92%",
+    "uptimeMonth": "62.24%",
+    "uptimeYear": "64.23%",
     "time": 719,
-    "timeDay": 1386,
-    "timeWeek": 826,
+    "timeDay": 1979,
+    "timeWeek": 857,
     "timeMonth": 723,
     "timeYear": 719,
     "dailyMinutesDown": {
@@ -130,7 +130,8 @@
       "2026-11-20": 474,
       "2026-11-21": 723,
       "2026-11-22": 709,
-      "2026-11-23": 360
+      "2026-11-23": 360,
+      "2026-11-24": 5
     }
   },
   {
@@ -138,15 +139,15 @@
     "url": "https://sig.ncpa.fr",
     "icon": "https://icons.duckduckgo.com/ip3/sig.ncpa.fr.ico",
     "slug": "sig-ncpa-fr",
-    "status": "up",
-    "uptime": "64.62%",
-    "uptimeDay": "54.75%",
-    "uptimeWeek": "61.94%",
-    "uptimeMonth": "61.95%",
-    "uptimeYear": "64.62%",
+    "status": "down",
+    "uptime": "65.02%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "64.25%",
+    "uptimeMonth": "62.58%",
+    "uptimeYear": "65.02%",
     "time": 688,
-    "timeDay": 879,
-    "timeWeek": 748,
+    "timeDay": 783,
+    "timeWeek": 754,
     "timeMonth": 717,
     "timeYear": 688,
     "dailyMinutesDown": {
@@ -226,7 +227,8 @@
       "2026-11-20": 465,
       "2026-11-21": 718,
       "2026-11-22": 708,
-      "2026-11-23": 357
+      "2026-11-23": 357,
+      "2026-11-24": 0
     }
   }
 ]
